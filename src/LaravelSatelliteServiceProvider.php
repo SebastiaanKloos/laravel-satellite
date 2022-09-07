@@ -4,7 +4,6 @@ namespace SebastiaanKloos\LaravelSatellite;
 
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use SebastiaanKloos\LaravelSatellite\Commands\LaravelSatelliteCommand;
 
 class LaravelSatelliteServiceProvider extends PackageServiceProvider
 {
